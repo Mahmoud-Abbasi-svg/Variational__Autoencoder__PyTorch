@@ -1,1 +1,1 @@
-# Variational__Autoencoder__PyTorch
+The implementation of Variational Autoencoder using PyTorch.
